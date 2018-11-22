@@ -1,6 +1,6 @@
 # Gracenote Sports Code Test - Solution
 
-Rest based endpoints exposing sports data in CSV files
+Spring Rest controller exposing sports data in CSV files
 
 ## Getting Started
 
@@ -79,3 +79,4 @@ http://localhost:8080/gamestats/winner/{gameID}
 * Spring Boot, Spring JDBC, Java 8
 * Maven
 * Spring in memory H2 database
+* Embedded Tomcat
