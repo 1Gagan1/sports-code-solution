@@ -76,7 +76,9 @@ http://localhost:8080/gamestats/winner/{gameID}
 ]
 ## Built With
 
-* Spring Boot, Spring JDBC, Java 8
+* Spring Boot 2.0.5, Spring JDBC, Java 8
 * Maven
 * Spring in memory H2 database
-* Embedded Tomcat
+* Embedded Tomcat 8
+* PostMan
+* Jackson JSON Mapper
